@@ -8,4 +8,4 @@ A Job Description is a document that outlines the duties, responsibilities, qual
 
 ### ⭐ Features
 
-- [Example](example)
+- [Oracle Database Administrator](https://github.com/natthasath/job-description.git/Oracle-Database-Administrator.md)
