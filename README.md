@@ -13,6 +13,8 @@ A Job Description is a document that outlines the duties, responsibilities, qual
 - [IT Support](https://github.com/natthasath/job-description/blob/main/IT-Support.md)
 - Oracle
   - [Oracle Database Administrator](https://github.com/natthasath/job-description/blob/main/Oracle/Oracle-Database-Administrator.md)
+  - [Oracle Database Architect](https://github.com/natthasath/job-description/blob/main/Oracle/Oracle-Database-Architect.md)
   - [Oracle Database Developer](https://github.com/natthasath/job-description/blob/main/Oracle/Oracle-Database-Developer.md)
+  - [Oracle Database Engineer](https://github.com/natthasath/job-description/blob/main/Oracle/Oracle-Database-Engineer.md)
 - [Software Tester](https://github.com/natthasath/job-description/blob/main/Software-Tester.md)
 - [System Analyst](https://github.com/natthasath/job-description/blob/main/System-Analyst.md)
