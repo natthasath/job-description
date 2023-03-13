@@ -6,6 +6,12 @@ A Job Description is a document that outlines the duties, responsibilities, qual
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
 ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
 
+### 🚀 Setup
+
+```
+Job Description <Job Title> include estimate salary range offer per month in <Location>
+```
+
 ### ⭐ Features
 
 - [Big Data Engineer](https://github.com/natthasath/job-description/blob/main/Big-Data-Engineer.md)
