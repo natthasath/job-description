@@ -8,7 +8,11 @@ A Job Description is a document that outlines the duties, responsibilities, qual
 
 ### ⭐ Features
 
+- [Big Data Engineer](https://github.com/natthasath/job-description/blob/main/Big-Data-Engineer.md)
+- [Blockchain Developer](https://github.com/natthasath/job-description/blob/main/Blockchain-Developer.md)
 - [IT Support](https://github.com/natthasath/job-description/blob/main/IT-Support.md)
-- [Oracle Database Administrator](https://github.com/natthasath/job-description/blob/main/Oracle-Database-Administrator.md)
+- Oracle
+  - [Oracle Database Administrator](https://github.com/natthasath/job-description/blob/main/Oracle/Oracle-Database-Administrator.md)
+  - [Oracle Database Developer](https://github.com/natthasath/job-description/blob/main/Oracle/Oracle-Database-Developer.md)
 - [Software Tester](https://github.com/natthasath/job-description/blob/main/Software-Tester.md)
 - [System Analyst](https://github.com/natthasath/job-description/blob/main/System-Analyst.md)
