@@ -2,35 +2,40 @@ Job Title: `Blockchain Developer`
 
 Job Type: `Full-time`
 
-Location: `[Insert location]`
+Location: `Thailand`
+
+Salary Range: `THB 80,000 - THB 150,000 per month`
 
 Job Summary:
 
-`We are seeking a Blockchain Developer to join our team. The ideal candidate will be responsible for designing, implementing, and maintaining blockchain-based solutions for our organization's business needs.`
+`We are seeking a highly skilled and experienced Blockchain Developer to join our team in Thailand. The successful candidate will be responsible for developing and implementing blockchain solutions for our organization and clients.`
 
 Key Responsibilities:
 
-* Design and develop blockchain-based solutions for our organization's business needs
-* Collaborate with business stakeholders to identify and prioritize blockchain-related requirements
-* Develop and implement smart contracts using Solidity or other blockchain programming languages
-* Develop and maintain blockchain nodes, APIs, and other infrastructure components
-* Implement blockchain-based solutions using Ethereum, Hyperledger, or other blockchain platforms
-* Ensure the security and integrity of blockchain-based solutions through cryptography and other security measures
-* Monitor and maintain blockchain-based solutions, including upgrades and bug fixes
-* Evaluate and recommend new blockchain-related technologies and tools
+* Design, develop, and implement blockchain solutions for our organization and clients
+* Write and test smart contracts using Solidity or other blockchain programming languages
+* Develop and maintain blockchain nodes and infrastructure
+* Collaborate with cross-functional teams to integrate blockchain solutions into existing systems
+* Develop and maintain blockchain-based applications and platforms
+* Provide technical support for blockchain solutions
+* Stay up-to-date with emerging blockchain technologies and trends
 
 Requirements:
 
 * Bachelor's degree in Computer Science, Information Technology, or a related field
-* 2+ years of experience as a Blockchain Developer or a related role
-* Strong knowledge of blockchain technologies and platforms, including Ethereum, Hyperledger, and Solidity
-* Experience developing and implementing smart contracts
-* Strong programming skills in languages such as Java, Python, or C++
-* Experience with distributed computing and peer-to-peer networks
-* Experience with cryptography and blockchain security protocols
+* 3+ years of experience as a Blockchain Developer or a related role
+* Strong understanding of blockchain technology, cryptocurrencies, and smart contracts
+* Proficiency in Solidity or other blockchain programming languages
+* Experience with blockchain frameworks such as Ethereum, Hyperledger, and Corda
+* Experience with blockchain node deployment and management
+* Strong programming skills in Java, Python, or JavaScript
+* Experience with web3.js or other blockchain APIs
+* Strong problem-solving and troubleshooting skills
 * Excellent communication and collaboration skills
 * Ability to work independently and as part of a team
-* Experience with cloud computing platforms such as AWS, Azure, or Google Cloud Platform
-* Knowledge of web3.js, Geth, or other blockchain-related tools and technologies
 
-This is a full-time position with a competitive salary and benefits package. If you are passionate about blockchain technology and have a strong technical background in blockchain development, we encourage you to apply.
+This is a full-time position with a salary range of THB 80,000 - THB 150,000 per month and a benefits package that includes health insurance, annual leave, and performance bonuses.
+
+Please note that the salary range provided is an estimate and can vary based on factors such as experience, skills, location, industry, and the specific organization offering the job.
+
+If you are passionate about blockchain development and have a strong technical background in designing and implementing blockchain solutions, we encourage you to apply.
