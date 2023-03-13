@@ -2,39 +2,40 @@ Job Title: `Oracle Database Architect`
 
 Job Type: `Full-time`
 
-Location: `[Insert location]`
+Location: `Thailand`
+
+Salary Range: `THB 100,000 - THB 180,000 per month`
 
 Job Summary:
 
-`We are seeking an Oracle Database Architect to join our team. The ideal candidate will be responsible for designing, developing, and maintaining Oracle database solutions that meet our organization's business needs.`
+`We are looking for an experienced Oracle Database Architect to join our team in Thailand. The successful candidate will be responsible for designing and implementing high-performance Oracle database systems to support our organization's business needs.`
 
 Key Responsibilities:
 
-* Work with business stakeholders to understand their data needs and design database solutions that meet those needs
-* Develop and maintain database schemas, stored procedures, and triggers
-* Write and optimize SQL queries for performance and scalability
-* Develop and maintain ETL processes to extract, transform, and load data into the database
-* Develop and maintain database documentation, including data models and schemas
-* Participate in database design and architecture discussions
-* Ensure the security and integrity of databases through access controls, encryption, and other security measures
-* Collaborate with other developers and stakeholders to ensure seamless integration with other systems and applications
-* Evaluate and recommend new database-related technologies and tools
-* Provide guidance and mentorship to other database developers on best practices and industry standards
+* Design and implement scalable, reliable, and high-performance Oracle database systems
+* Work with development teams to understand their database needs and design appropriate solutions
+* Optimize and tune database performance and ensure maximum uptime
+* Implement and maintain database security, including access controls and encryption
+* Develop and maintain database documentation, including data models, schemas, and data dictionaries
+* Collaborate with other teams to ensure seamless integration with other systems and applications
+* Provide technical guidance and mentorship to other database developers
+* Develop and maintain database standards and best practices
 
 Requirements:
 
 * Bachelor's degree in Computer Science, Information Technology, or a related field
-* 7+ years of experience as an Oracle Database Developer or a related role
+* 8+ years of experience as an Oracle Database Architect or a related role
 * Strong knowledge of Oracle database management systems and related tools and technologies
-* Proven experience in database architecture, design, and implementation
+* Experience with database design and data modeling
 * Strong programming skills in SQL and PL/SQL
-* Experience with ETL processes and data integration
+* Experience with database performance optimization and tuning
+* Experience with database security protocols, including access controls and encryption
 * Strong problem-solving and troubleshooting skills
 * Excellent communication and collaboration skills
 * Ability to work independently and as part of a team
-* Experience with database tuning and optimization
-* Experience with database security protocols, including access controls and encryption
-* Knowledge of database design and data modeling
-* Experience with cloud computing platforms such as AWS, Azure, or Google Cloud Platform
 
-This is a full-time position with a competitive salary and benefits package. If you are passionate about Oracle database architecture and have a strong technical background in designing, developing, and maintaining Oracle database solutions, we encourage you to apply.
+This is a full-time position with a salary range of THB 100,000 - THB 180,000 per month and a benefits package that includes health insurance, annual leave, and performance bonuses.
+
+Please note that the salary range provided is an estimate and can vary based on factors such as experience, skills, location, industry, and the specific organization offering the job.
+
+If you are passionate about Oracle database architecture and have a strong technical background in designing and implementing high-performance Oracle database systems, we encourage you to apply.
