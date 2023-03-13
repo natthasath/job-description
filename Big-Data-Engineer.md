@@ -2,37 +2,40 @@ Job Title: `Big Data Engineer`
 
 Job Type: `Full-time`
 
-Location: `[Insert location]`
+Location: `Thailand`
+
+Salary Range: `THB 90,000 - THB 160,000 per month`
 
 Job Summary:
 
-`We are seeking a Big Data Engineer to join our team. The ideal candidate will be responsible for designing, implementing, and maintaining our big data infrastructure, including data processing and analysis pipelines.`
+`We are seeking a highly skilled and experienced Big Data Engineer to join our team in Thailand. The successful candidate will be responsible for designing, building, and maintaining our organization's big data infrastructure and analytics systems.`
 
 Key Responsibilities:
 
-* Design, implement, and maintain big data infrastructure using Hadoop, Spark, and related technologies
-* Develop and maintain data processing and analysis pipelines
-* Collaborate with data scientists and business stakeholders to identify and prioritize data requirements
-* Design and implement data storage solutions using NoSQL databases and other data storage technologies
-* Develop and implement data governance and security protocols
-* Monitor and optimize big data infrastructure performance and scalability
-* Work with data scientists to develop and implement machine learning algorithms and models
-* Provide technical support and assistance to end-users as needed
-* Evaluate and recommend new big data-related technologies and tools
+* Design, build, and maintain large-scale big data infrastructure and analytics systems
+* Develop and maintain data pipelines and ETL processes to move data from various sources into big data systems
+* Implement data quality and data governance processes to ensure data accuracy and consistency
+* Optimize big data systems for performance, scalability, and reliability
+* Collaborate with data scientists and other stakeholders to design and develop analytical models and algorithms
+* Develop and maintain automated testing and deployment processes for big data systems
+* Implement and maintain big data security protocols, including access controls and encryption
+* Provide technical guidance and mentorship to other big data developers
 
 Requirements:
 
 * Bachelor's degree in Computer Science, Information Technology, or a related field
-* 3+ years of experience as a Big Data Engineer or a related role
-* Strong knowledge of big data technologies, including Hadoop, Spark, and NoSQL databases
-* Experience with data processing and analysis pipelines
-* Experience with data governance and security protocols
+* 5+ years of experience as a Big Data Engineer or a related role
+* Strong knowledge of big data technologies and distributed computing, including Hadoop, Spark, and NoSQL databases
+* Experience with data integration and ETL tools such as Apache NiFi or Apache Airflow
+* Strong programming skills in Java, Python, or Scala
+* Experience with big data performance optimization and tuning
+* Experience with big data security protocols, including access controls and encryption
 * Strong problem-solving and troubleshooting skills
 * Excellent communication and collaboration skills
 * Ability to work independently and as part of a team
-* Experience with programming languages such as Java, Python, or Scala
-* Experience with distributed computing and parallel processing
-* Experience with cloud computing platforms such as AWS, Azure, or Google Cloud Platform
-* Knowledge of data warehousing and ETL processes
 
-This is a full-time position with a competitive salary and benefits package. If you are passionate about big data infrastructure and have a strong technical background in big data management, we encourage you to apply.
+This is a full-time position with a salary range of THB 90,000 - THB 160,000 per month and a benefits package that includes health insurance, annual leave, and performance bonuses.
+
+Please note that the salary range provided is an estimate and can vary based on factors such as experience, skills, location, industry, and the specific organization offering the job.
+
+If you are passionate about big data engineering and have a strong technical background in designing, building, and maintaining large-scale big data infrastructure and analytics systems, we encourage you to apply.
