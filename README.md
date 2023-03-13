@@ -17,6 +17,8 @@ Job Description <Job Title> include estimate salary range offer per month in <Lo
 - [Big Data Engineer](https://github.com/natthasath/job-description/blob/main/Big-Data-Engineer.md)
 - [Blockchain Developer](https://github.com/natthasath/job-description/blob/main/Blockchain-Developer.md)
 - [IT Support](https://github.com/natthasath/job-description/blob/main/IT-Support.md)
+- Developer
+  - [Full Stack Developer](https://github.com/natthasath/job-description/blob/main/Developer/Full-Stack-Developer.md)
 - Oracle
   - [Oracle Database Administrator](https://github.com/natthasath/job-description/blob/main/Oracle/Oracle-Database-Administrator.md)
   - [Oracle Database Architect](https://github.com/natthasath/job-description/blob/main/Oracle/Oracle-Database-Architect.md)
