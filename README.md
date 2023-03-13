@@ -15,16 +15,16 @@ Job Description <Job Title> include estimate salary range offer per month in <Lo
 ### ⭐ Features
 
 - Data
-  - [Big Data Engineer](https://github.com/natthasath/job-description/blob/main/Big-Data-Engineer.md)
+  - [Big Data Engineer](https://github.com/natthasath/job-description/blob/main/Data/Big-Data-Engineer.md)
 - Developer
-  - [Blockchain Developer](https://github.com/natthasath/job-description/blob/main/Blockchain-Developer.md)
+  - [Blockchain Developer](https://github.com/natthasath/job-description/blob/main/Developer/Blockchain-Developer.md)
   - [Full Stack Developer](https://github.com/natthasath/job-description/blob/main/Developer/Full-Stack-Developer.md)
   - [Game Developer](https://github.com/natthasath/job-description/blob/main/Developer/Game-Developer.md)
   - [Java Developer](https://github.com/natthasath/job-description/blob/main/Developer/Java-Developer.md)
 - IT
-  - [IT Support](https://github.com/natthasath/job-description/blob/main/IT-Support.md)
-  - [Software Tester](https://github.com/natthasath/job-description/blob/main/Software-Tester.md)
-  - [System Analyst](https://github.com/natthasath/job-description/blob/main/System-Analyst.md)
+  - [IT Support](https://github.com/natthasath/job-description/blob/main/IT/IT-Support.md)
+  - [Software Tester](https://github.com/natthasath/job-description/blob/main/IT/Software-Tester.md)
+  - [System Analyst](https://github.com/natthasath/job-description/blob/main/IT/System-Analyst.md)
 - Oracle
   - [Oracle Database Administrator](https://github.com/natthasath/job-description/blob/main/Oracle/Oracle-Database-Administrator.md)
   - [Oracle Database Architect](https://github.com/natthasath/job-description/blob/main/Oracle/Oracle-Database-Architect.md)
