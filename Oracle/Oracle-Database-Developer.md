@@ -2,7 +2,9 @@ Job Title: `Oracle Database Developer`
 
 Job Type: `Full-time`
 
-Location: `[Insert location]`
+Location: `Thailand`
+
+Salary Range: `THB 60,000 - THB 100,000 per month`
 
 Job Summary:
 
@@ -36,4 +38,8 @@ Requirements:
 * Knowledge of database design and data modeling
 * Experience with cloud computing platforms such as AWS, Azure, or Google Cloud Platform
 
-This is a full-time position with a competitive salary and benefits package. If you are passionate about Oracle database development and have a strong technical background in developing and maintaining Oracle database solutions, we encourage you to apply.
+This is a full-time position with a salary range of THB 60,000 - THB 100,000 per month and a benefits package that includes health insurance, annual leave, and performance bonuses.
+
+Please note that the salary range provided is an estimate and can vary based on factors such as experience, skills, location, industry, and the specific organization offering the job.
+
+If you are passionate about Oracle database development and have a strong technical background in developing and maintaining high-performance Oracle database systems, we encourage you to apply.
