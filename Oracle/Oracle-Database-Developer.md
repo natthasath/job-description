@@ -8,35 +8,28 @@ Salary Range: `THB 60,000 - THB 100,000 per month`
 
 Job Summary:
 
-`We are seeking an Oracle Database Developer to join our team. The ideal candidate will be responsible for designing, developing, and maintaining Oracle database solutions for our organization's business needs.`
+`We are looking for an experienced Oracle Database Developer to join our team in Thailand. The successful candidate will be responsible for developing and maintaining high-performance Oracle database systems to support our organization's business needs.`
 
 Key Responsibilities:
 
-* Work with business stakeholders to understand their data needs and design database solutions that meet those needs
-* Develop and maintain database schemas, stored procedures, and triggers
-* Write and optimize SQL queries for performance and scalability
-* Develop and maintain ETL processes to extract, transform, and load data into the database
-* Develop and maintain database documentation, including data models and schemas
-* Participate in database design and architecture discussions
-* Ensure the security and integrity of databases through access controls, encryption, and other security measures
-* Collaborate with other developers and stakeholders to ensure seamless integration with other systems and applications
-* Evaluate and recommend new database-related technologies and tools
+* Develop and maintain Oracle database systems using SQL, PL/SQL, and other related tools and technologies
+* Design and implement database schemas, data models, and data dictionaries
+* Optimize and tune database performance to ensure maximum uptime and reliability
+* Work with development teams to understand their database needs and design appropriate solutions
+* Develop and maintain database documentation
+* Collaborate with other teams to ensure seamless integration with other systems and applications
 
 Requirements:
 
 * Bachelor's degree in Computer Science, Information Technology, or a related field
 * 3+ years of experience as an Oracle Database Developer or a related role
 * Strong knowledge of Oracle database management systems and related tools and technologies
-* Experience developing and maintaining database schemas, stored procedures, and triggers
 * Strong programming skills in SQL and PL/SQL
-* Experience with ETL processes and data integration
+* Experience with database design and data modeling
+* Experience with database performance optimization and tuning
 * Strong problem-solving and troubleshooting skills
 * Excellent communication and collaboration skills
 * Ability to work independently and as part of a team
-* Experience with database tuning and optimization
-* Experience with database security protocols, including access controls and encryption
-* Knowledge of database design and data modeling
-* Experience with cloud computing platforms such as AWS, Azure, or Google Cloud Platform
 
 This is a full-time position with a salary range of THB 60,000 - THB 100,000 per month and a benefits package that includes health insurance, annual leave, and performance bonuses.
 
