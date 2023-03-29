@@ -18,6 +18,7 @@ I want you to act as a job description generator for Human Resources. Please pro
   - [Big Data Engineer](https://github.com/natthasath/job-description/blob/main/Data/Big-Data-Engineer.md)
 - Developer
   - [Blockchain Developer](https://github.com/natthasath/job-description/blob/main/Developer/Blockchain-Developer.md)
+  - [Front-End Developer](https://github.com/natthasath/job-description/blob/main/Developer/Front-End-Developer.md)
   - [Full Stack Developer](https://github.com/natthasath/job-description/blob/main/Developer/Full-Stack-Developer.md)
   - [Game Developer](https://github.com/natthasath/job-description/blob/main/Developer/Game-Developer.md)
   - [Java Developer](https://github.com/natthasath/job-description/blob/main/Developer/Java-Developer.md)
