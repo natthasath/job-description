@@ -23,6 +23,7 @@ I want you to act as a job description generator for Human Resources. Please pro
   - [Full Stack Developer](https://github.com/natthasath/job-description/blob/main/Developer/Full-Stack-Developer.md)
   - [Game Developer](https://github.com/natthasath/job-description/blob/main/Developer/Game-Developer.md)
   - [Java Developer](https://github.com/natthasath/job-description/blob/main/Developer/Java-Developer.md)
+  - [Mobile Developer](https://github.com/natthasath/job-description/blob/main/Developer/Mobile-Developer.md)
 - IT
   - [IT Support](https://github.com/natthasath/job-description/blob/main/IT/IT-Support.md)
   - [Software Tester](https://github.com/natthasath/job-description/blob/main/IT/Software-Tester.md)
