@@ -29,8 +29,9 @@ I want you to act as a job description generator for Human Resources. Please pro
   - [Software Tester](https://github.com/natthasath/job-description/blob/main/IT/Software-Tester.md)
   - [System Analyst](https://github.com/natthasath/job-description/blob/main/IT/System-Analyst.md)
 - Manager
-  - [Secretary](https://github.com/natthasath/job-description/blob/main/Manager/Secretary.md)
+  - [Chief Information Officer](https://github.com/natthasath/job-description/blob/main/Manager/Chief-Information-Officer.md)
   - [Project Manager](https://github.com/natthasath/job-description/blob/main/Manager/Project-Manager.md)
+  - [Secretary](https://github.com/natthasath/job-description/blob/main/Manager/Secretary.md)
 - Oracle
   - [Oracle Database Administrator](https://github.com/natthasath/job-description/blob/main/Oracle/Oracle-Database-Administrator.md)
   - [Oracle Database Architect](https://github.com/natthasath/job-description/blob/main/Oracle/Oracle-Database-Architect.md)
