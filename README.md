@@ -15,6 +15,7 @@ I want you to act as a job description generator for Human Resources. Please pro
 ### ⭐ Features
 
 - Admin
+  - [Database Administrator](https://github.com/natthasath/job-description/blob/main/Admin/Database-Administrator.md)
   - [Linux Administrator](https://github.com/natthasath/job-description/blob/main/Admin/Linux-Administrator.md)
 - Data
   - [Big Data Engineer](https://github.com/natthasath/job-description/blob/main/Data/Big-Data-Engineer.md)
