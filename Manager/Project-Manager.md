@@ -1,16 +1,16 @@
-**Job Title:** `Project Manager`
+Job Title: `Project Manager`
 
-**Location:** `Thailand`
+Location: `Thailand`
 
-**Job Type:** `Full-time`
+Job Type: `Full-time`
 
-**Salary Range:** `THB 100,000 - THB 150,000 per month`
+Salary Range: `THB 100,000 - THB 150,000 per month`
 
-**Job Summary:**
+Job Summary:
 
 `We are seeking a highly motivated and experienced Project Manager to oversee the planning, implementation, and tracking of a variety of projects in Thailand. The Project Manager will work closely with cross-functional teams, stakeholders, and clients to ensure project objectives are met on time and within budget. The successful candidate will have strong project management skills, excellent communication abilities, and a proven track record of delivering projects successfully.`
 
-**Key Responsibilities:**
+Key Responsibilities:
 
 * Develop and manage project plans, timelines, and budgets
 * Define project scope, goals, and deliverables
@@ -23,7 +23,7 @@
 * Manage project documentation, including project schedules, status reports, and change requests
 * Ensure project deliverables are of high quality and meet customer expectations
 
-**Requirements:**
+Requirements:
 
 * Bachelor's degree in project management, business administration, or a related field
 * At least 5 years of experience in project management, preferably in a related industry
