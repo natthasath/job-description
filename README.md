@@ -30,6 +30,7 @@ I want you to act as a job description generator for Human Resources. Please pro
   - [System Analyst](https://github.com/natthasath/job-description/blob/main/IT/System-Analyst.md)
 - Manager
   - [Chief Information Officer](https://github.com/natthasath/job-description/blob/main/Manager/Chief-Information-Officer.md)
+  - [Chief Technology Officer](https://github.com/natthasath/job-description/blob/main/Manager/Chief-Technology-Officer.md)
   - [Project Manager](https://github.com/natthasath/job-description/blob/main/Manager/Project-Manager.md)
   - [Secretary](https://github.com/natthasath/job-description/blob/main/Manager/Secretary.md)
 - Oracle
