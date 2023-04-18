@@ -17,8 +17,6 @@ A Job Description is a document that outlines the duties, responsibilities, qual
   - [Linux Administrator](https://github.com/natthasath/job-description/blob/main/Admin/Linux-Administrator.md)
   - [Network Administrator](https://github.com/natthasath/job-description/blob/main/Admin/Network-Administrator.md)
   - [System Administrator](https://github.com/natthasath/job-description/blob/main/Admin/System-Administrator.md)
-- Data
-  - [Big Data Engineer](https://github.com/natthasath/job-description/blob/main/Data/Big-Data-Engineer.md)
 - Developer
   - [AR/VR Developer](https://github.com/natthasath/job-description/blob/main/Developer/AR-VR-Developer.md)
   - [Back-End Developer](https://github.com/natthasath/job-description/blob/main/Developer/Back-End-Developer.md)
@@ -29,6 +27,9 @@ A Job Description is a document that outlines the duties, responsibilities, qual
   - [Java Developer](https://github.com/natthasath/job-description/blob/main/Developer/Java-Developer.md)
   - [Mobile Developer](https://github.com/natthasath/job-description/blob/main/Developer/Mobile-Developer.md)
   - [Web Developer](https://github.com/natthasath/job-description/blob/main/Developer/Web-Developer.md)
+- Engineer
+  - [Big Data Engineer](https://github.com/natthasath/job-description/blob/main/Engineer/Big-Data-Engineer.md)
+  - [Cloud Engineer](https://github.com/natthasath/job-description/blob/main/Engineer/Cloud-Engineer.md)
 - IT
   - [IT Auditor](https://github.com/natthasath/job-description/blob/main/IT/IT-Auditor.md)
   - [IT Consultant](https://github.com/natthasath/job-description/blob/main/IT/IT-Consultant.md)
