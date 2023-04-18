@@ -28,6 +28,7 @@ A Job Description is a document that outlines the duties, responsibilities, qual
   - [iOS Developer](https://github.com/natthasath/job-description/blob/main/Developer/iOS-Developer.md)
   - [Java Developer](https://github.com/natthasath/job-description/blob/main/Developer/Java-Developer.md)
   - [Mobile Developer](https://github.com/natthasath/job-description/blob/main/Developer/Mobile-Developer.md)
+  - [Python Developer](https://github.com/natthasath/job-description/blob/main/Developer/Python-Developer.md)
   - [SQL Developer](https://github.com/natthasath/job-description/blob/main/Developer/SQL-Developer.md)
   - [Web Developer](https://github.com/natthasath/job-description/blob/main/Developer/Web-Developer.md)
 - Engineer
