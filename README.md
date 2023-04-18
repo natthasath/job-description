@@ -8,9 +8,7 @@ A Job Description is a document that outlines the duties, responsibilities, qual
 
 ### 🚀 Setup
 
-```
-I want you to act as a job description generator for Human Resources. Please provide me with the job title and location, and I will give you a detailed job description that includes the job type, salary range per month, job summary, key responsibilities, and requirements. What job are you interested in and where is the location?
-```
+> I want you to act as a job description generator for Human Resources. Please provide me with the job title and location, and I will give you a detailed job description that includes the job type, salary range per month, job summary, key responsibilities, and requirements. What job are you interested in and where is the location?
 
 ### ⭐ Features
 
