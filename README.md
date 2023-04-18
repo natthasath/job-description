@@ -35,6 +35,7 @@ A Job Description is a document that outlines the duties, responsibilities, qual
   - [Cloud Engineer](https://github.com/natthasath/job-description/blob/main/Engineer/Cloud-Engineer.md)
   - [Machine Learning Engineer](https://github.com/natthasath/job-description/blob/main/Engineer/Machine-Learning-Engineer.md)
   - [Network Engineer](https://github.com/natthasath/job-description/blob/main/Engineer/Network-Engineer.md)
+  - [Software Engineer](https://github.com/natthasath/job-description/blob/main/Engineer/Software-Engineer.md)
   - [Systems Engineer](https://github.com/natthasath/job-description/blob/main/Engineer/Systems-Engineer.md)
 - IT
   - [IT Auditor](https://github.com/natthasath/job-description/blob/main/IT/IT-Auditor.md)
