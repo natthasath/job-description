@@ -33,6 +33,7 @@ A Job Description is a document that outlines the duties, responsibilities, qual
   - [IT Auditor](https://github.com/natthasath/job-description/blob/main/IT/IT-Auditor.md)
   - [IT Consultant](https://github.com/natthasath/job-description/blob/main/IT/IT-Consultant.md)
   - [IT Support](https://github.com/natthasath/job-description/blob/main/IT/IT-Support.md)
+  - [IT Trainer](https://github.com/natthasath/job-description/blob/main/IT/IT-Trainer.md)
   - [Software Tester](https://github.com/natthasath/job-description/blob/main/IT/Software-Tester.md)
   - [System Analyst](https://github.com/natthasath/job-description/blob/main/IT/System-Analyst.md)
 - Manager
