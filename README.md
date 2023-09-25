@@ -54,6 +54,8 @@ A Job Description is a document that outlines the duties, responsibilities, qual
   - [IT Manager](https://github.com/natthasath/job-description/blob/main/Manager/IT-Manager.md)
   - [Project Manager](https://github.com/natthasath/job-description/blob/main/Manager/Project-Manager.md)
   - [Secretary](https://github.com/natthasath/job-description/blob/main/Manager/Secretary.md)
+- Marketing
+  - [SEO Specialist](https://github.com/natthasath/job-description/blob/main/Marketing/SEO-Specialist.md)
 - Oracle
   - [Oracle Database Administrator](https://github.com/natthasath/job-description/blob/main/Oracle/Oracle-Database-Administrator.md)
   - [Oracle Database Architect](https://github.com/natthasath/job-description/blob/main/Oracle/Oracle-Database-Architect.md)
